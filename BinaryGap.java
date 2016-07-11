@@ -1,3 +1,4 @@
+//2016.07.11 100%
 //https://codility.com/demo/results/trainingGSCPMF-HN7/
 
 import java.util.*;
