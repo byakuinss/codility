@@ -1,4 +1,4 @@
-//2016.07.14 
+//2016.07.14 100%
 //https://codility.com/demo/results/trainingPCGCWH-28B/
 
 import java.util.*;
